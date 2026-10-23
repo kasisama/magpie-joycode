@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+*.vscdb
+*.vscdb-*
+plugin-auth.json
+PR-DRAFT.md
+.DS_Store
